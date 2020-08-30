@@ -1,0 +1,7 @@
+#запрещаем добавлять папки .idea и venv
+.idea/*
+venv/*
+# и код с урока
+temp_main.py
+# и файл со странами
+countries.json
